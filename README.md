@@ -7,4 +7,4 @@ Se todos os programas estiverem instalados, ele apenas atualizará todos os paco
 
 Você pode abrir uma issue para relatar problemas ou sugerir adições e melhorias ao script
 
-codigo original: https://github.com/psygreg/autoinstall_linux
+codigo original para Arch linux: https://github.com/psygreg/autoinstall_linux
