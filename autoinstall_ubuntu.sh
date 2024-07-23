@@ -44,7 +44,6 @@ languages() {
         noroot="Não execute o AutoInstall como root."
         ubuntu="APT encontrado, iniciando..."
         nubuntu="APT não encontrado. Você está usando uma distribuição baseada em Ubuntu?"
-        ppa_check="PPA já instalado, prosseguindo..."
     else
         intro() {
             echo "This is the *Psygreg AutoInstall Script*."
@@ -58,7 +57,6 @@ languages() {
         noroot="Do not run AutoInstall as root."
         ubuntu="APT found. Starting..."
         nubuntu="APT not found. Are you using an Ubuntu-based distro?"
-        ppa_check="PPA already installed, proceeding..."
     fi
 }
 
