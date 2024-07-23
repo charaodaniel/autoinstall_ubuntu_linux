@@ -8,3 +8,7 @@ Se todos os programas estiverem instalados, ele apenas atualizará todos os paco
 Você pode abrir uma issue para relatar problemas ou sugerir adições e melhorias ao script
 
 codigo original para Arch linux: https://github.com/psygreg/autoinstall_linux
+
+# autoinstall_linux.py
+É apenas uma aplicaçao para rodar script .sh
+Use no caso de nao conseguir executar autoinstall_linux.sh diretamente
