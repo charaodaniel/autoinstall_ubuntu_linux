@@ -15,7 +15,7 @@ BASEAPT="sudo apt-get update && sudo apt-get install -y chromium-browser libreof
 BASEFLAT="flatpak install -y --noninteractive --or-update com.github.IsmaelMartinez.teams_for_linux"
 BASEPPA="sudo add-apt-repository -y ppa:appimagelauncher-team/stable && sudo apt-get update && sudo apt-get install -y appimagelauncher"
 GAMEAPT="sudo apt-get update && sudo apt-get install -y timeshift libvkd3d1 libvkd3d1:i386 gamemode libgamemode0 libgamemode0:i386 wine64 wine64-development wine32-development libwine-dev flatpak v4l2loopback-dkms v4l2loopback-utils v4l-utils pipewire-bin mangohud gamescope goverlay"
-GAMEFLAT="flatpak install -y --noninteractive --or-update net.lutris.Lutris org.prismlauncher.PrismLauncher com.valvesoftware.Steam com.valvesoftware.Steam.CompatibilityTool.Proton-GE com.heroicgameslauncher.hgl io.github.unknownskl.greenlight com.discordapp.Discord com.valvesoftware.Steam.VulkanLayer.MangoHud org.freedesktop.Platform.VulkanLayer.MangoHud com.valvesoftware.Steam.Utility.MangoHud com.obsproject.Studio"
+GAMEFLAT="flatpak install -y --noninteractive --or-update net.lutris.Lutris org.prismlauncher.PrismLauncher com.valvesoftware.Steam com.heroicgameslauncher.hgl io.github.unknownskl.greenlight com.discordapp.Discord com.valvesoftware.Steam.VulkanLayer.MangoHud org.freedesktop.Platform.VulkanLayer.MangoHud com.valvesoftware.Steam.Utility.MangoHud com.obsproject.Studio"
 
 ## FUNÇÕES
 # obter idioma do sistema operacional
